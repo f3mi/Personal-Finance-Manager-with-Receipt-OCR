@@ -139,4 +139,4 @@ personal-finance-manager/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername) 
+- [f3mi](https://github.com/f3mi) 
